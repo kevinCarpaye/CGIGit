@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("projet test git1");
 		System.out.println("projet test git2");
 		System.out.println("projet test git3");
+		System.out.println("projet test git4");
 	}
 
 }
